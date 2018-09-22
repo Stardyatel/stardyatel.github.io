@@ -1,4 +1,4 @@
-   <svg width="300" height="200" xmlns="https://stardyatel.github.io/fox.svg">
+   <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
       <ellipse cx="230" cy="170" rx="50" ry="15" fill="lightgray"></ellipse>
       <circle cx="230" cy="100" r="70" fill="orange"></circle>
       <ellipse cx="160" cy="70" rx="50" ry="20" fill="orange" transform=" rotate(15)"></ellipse>
