@@ -1,0 +1,18 @@
+   <svg width="300" height="200" xmlns="https://stardyatel.github.io/fox.svg">
+      <ellipse cx="230" cy="170" rx="50" ry="15" fill="lightgray"></ellipse>
+      <circle cx="230" cy="100" r="70" fill="orange"></circle>
+      <ellipse cx="160" cy="70" rx="50" ry="20" fill="orange" transform=" rotate(15)"></ellipse>
+      <circle cx="220" cy="85" r="30" fill="white"></circle>
+      <circle cx="265" cy="85" r="30" fill="white"></circle>
+      <circle cx="275" cy="85" r="6" fill="black"></circle>
+      <circle cx="235" cy="85" r="6" fill="black"></circle>
+      <circle cx="243" cy="115" r="10" fill="black"></circle>
+      <ellipse cx="230" cy="150" rx="10" ry="5" fill="red"></ellipse>
+      <polygon points="185,55 195,15 225,35" fill="orange"></polygon>
+      <polygon points="192,41 197,20 214,31" fill="black"></polygon>
+      <polygon points="185,55 265,15 275,50" fill="orange"></polygon>
+      <polygon points="242,32 264,20 269,40" fill="black"></polygon>
+      <polygon points="95,95 122,90 110,117" fill="white"></polygon>
+    </svg>
+
+    
